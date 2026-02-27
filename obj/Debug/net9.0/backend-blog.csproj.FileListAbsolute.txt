@@ -33,3 +33,4 @@ C:\Users\kelle\OneDrive\Documents\Academy\Level3\backend-blog\obj\Debug\net9.0\r
 C:\Users\kelle\OneDrive\Documents\Academy\Level3\backend-blog\obj\Debug\net9.0\backend-blog.pdb
 C:\Users\kelle\OneDrive\Documents\Academy\Level3\backend-blog\obj\Debug\net9.0\backend-blog.genruntimeconfig.cache
 C:\Users\kelle\OneDrive\Documents\Academy\Level3\backend-blog\obj\Debug\net9.0\ref\backend-blog.dll
+C:\Users\kelle\OneDrive\Documents\Academy\Level3\backend-blog\obj\Debug\net9.0\backend-blog.sourcelink.json
